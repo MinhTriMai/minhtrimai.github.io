@@ -261,7 +261,7 @@ a {
   }
 
   .planet::before {
-    background: $bg-color;
+    /*background: $bg-color;*/
     border-radius: 50%;
     content: "";
     height: 3rem;
