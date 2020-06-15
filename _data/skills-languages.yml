@@ -1,13 +1,13 @@
-- name: TypeScript
+- name: PHP
   weight: 4
 
 - name: JavaScript
   weight: 3
 
 - name: Python
-  weight: 3
+  weight: 1
 
-- name: Bash
+- name: CSS
   weight: 3
 
 - name: HTML5
@@ -19,8 +19,8 @@
 - name: SASS
   weight: 3
 
-- name: Dart
-  weight: 2
+- name: C#
+  weight: 1
 
-- name: Java
+- name: C
   weight: 1

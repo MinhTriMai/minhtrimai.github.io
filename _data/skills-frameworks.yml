@@ -1,4 +1,4 @@
-- name: Angular
+- name: Bootstrap
   weight: 4
 
 - name: AngularJS
@@ -7,22 +7,19 @@
 - name: React.js
   weight: 2
 
-- name: React Native
-  weight: 2
-
-- name: Node.js
+- name: OpenCart
   weight: 1
 
-- name: Flutter
+- name: Drupal
   weight: 2
 
-- name: Selenium
+- name: OctoberCMS
   weight: 3
 
-- name: Jasmine
-  weight: 3
+- name: Wordpress
+  weight: 2
 
-- name: Protractor
+- name: Django
   weight: 2
 
 - name: Jekyll
