@@ -5,29 +5,26 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: October CMS
   weight: 5
 
-- name: AngularJS
+- name: Wordpress
   weight: 3
 
-- name: React
+- name: Bootstrap
   weight: 4
 
 - name: Node
   weight: 1
 
-- name: Flutter
+- name: Open Cart
   weight: 2
 
-- name: Express
+- name: Drupal
   weight: 3
 
 - name: Django
   weight: 1
-
-- name: Spring
-  weight: 2
 
 - name: Rails
   weight: 4

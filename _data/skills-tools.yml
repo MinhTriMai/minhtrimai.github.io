@@ -6,27 +6,27 @@
 #   weight: 5
 
 - name: Git
-  weight: 5
+  weight: 4
 
 - name: Bash
   weight: 3
 
-- name: Scrum
+- name: Adobe Ai
   weight: 3
 
-- name: Travis CI
+- name: Adobe Photoshop
   weight: 1
 
-- name: Jenkins
+- name: Adobe Premiere
   weight: 1
 
-- name: Chrome DevTools
+- name: gulp
   weight: 2
 
 - name: npm
   weight: 2
 
-- name: gulp
+- name: Moqups
   weight: 4
 
 - name: VS Code
