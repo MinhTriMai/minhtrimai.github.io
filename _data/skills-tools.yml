@@ -8,9 +8,6 @@
 - name: Git
   weight: 4
 
-- name: Bash
-  weight: 3
-
 - name: Adobe Ai
   weight: 3
 
@@ -27,6 +24,9 @@
   weight: 2
 
 - name: Moqups
+  weight: 3
+
+- name: Canva
   weight: 4
 
 - name: VS Code

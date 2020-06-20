@@ -14,9 +14,6 @@
 - name: Bootstrap
   weight: 4
 
-- name: Node
-  weight: 1
-
 - name: Open Cart
   weight: 2
 
@@ -25,6 +22,3 @@
 
 - name: Django
   weight: 1
-
-- name: Rails
-  weight: 4

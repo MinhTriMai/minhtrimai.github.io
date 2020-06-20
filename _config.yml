@@ -12,7 +12,7 @@ email: elliotdots1@gmail.com
 github_username: MinhTriMai
 codepen_username: Mingti
 dev_username:
-linkedin_username: Tri Mai Minh
+linkedin_username: minhtrimai
 twitter_username:
 
 # About Me Section
@@ -30,7 +30,7 @@ cv_download_link: https://github.com/MinhTriMai/test/blob/master/Mai%20Minh%20Tr
 
 # Projects Section
 show_projects_card: true
-show_projects: false
+show_projects: true
 projects_title: Things I Have Built
 show_os_projects: true
 os_projects_title: Things I Contributed To Open Source
