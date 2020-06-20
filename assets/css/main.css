@@ -30,6 +30,10 @@ a {
   a:hover {
     color: #fff; }
 
+.project-image {
+  width: 100%;
+  height: auto; }
+
 .highlight-title {
   color: #74e2fc;
   text-shadow: 0.25rem 0.25rem 0.25rem #1c3e71; }

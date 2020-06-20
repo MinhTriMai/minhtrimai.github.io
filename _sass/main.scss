@@ -58,7 +58,10 @@ a {
     color: $text-color;
   }
 }
-
+.project-image{
+  width: 100%;
+  height: auto;
+}
 .highlight-title {
   color: $primary-color;
   text-shadow: 0.25rem 0.25rem 0.25rem #1c3e71;
