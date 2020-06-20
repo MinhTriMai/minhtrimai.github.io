@@ -250,11 +250,11 @@ a {
     padding: 0.2rem;
     transition: opacity 0.5s; }
   #skills div[skill-type="language"] {
-    color: #e84a5f; }
+    color: #4ae8e5; }
   #skills div[skill-type="framework"] {
-    color: #ff847c; }
+    color: #26bfe8; }
   #skills div[skill-type="tool"] {
-    color: #fecea8; }
+    color: #d8fff5; }
   #skills div[skill-weight="1"] {
     font-size: 0.75rem;
     line-height: 0.25rem; }
