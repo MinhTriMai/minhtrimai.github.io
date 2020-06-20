@@ -32,7 +32,7 @@ cv_download_link: https://github.com/MinhTriMai/test/blob/master/Mai%20Minh%20Tr
 show_projects_card: true
 show_projects: true
 projects_title: Things I Have Built
-show_os_projects: true
+show_os_projects: false
 os_projects_title: Things I Contributed To Open Source
 
 # CONTACT SECTION
