@@ -1,18 +1,18 @@
 # Site settings
-title: Minh Tri
+title: Mai Minh Tri
 description: Personal website powered by Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. https://example.com/
 updated: 2020
 
 # Landing Page
-username: Ming Ti
-typing_text: Front-End Developer
-email: long.p.do@fau.de
-github_username: mingti
-codepen_username: mingti
+username: Minh Tri
+typing_text: Web Developer
+email: elliotdots1@gmail.com
+github_username: MinhTriMai
+codepen_username: Mingti
 dev_username:
-linkedin_username: mingti
+linkedin_username: Tri Mai Minh
 twitter_username:
 
 # About Me Section
@@ -26,7 +26,7 @@ skills_title: Skills
 # Timeline Section
 show_timeline_card: true
 timeline_title: My Journey
-cv_download_link: https://github.com/mingti/Awesome-CV/blob/master/examples/cv.pdf
+cv_download_link: https://github.com/MinhTriMai/test/blob/master/Mai%20Minh%20Tr%E1%BB%8B.pdf
 
 # Projects Section
 show_projects_card: true
@@ -40,7 +40,7 @@ show_contact_card: true
 contact_title: Get In Touch
 
 # Github-Metadata
-repository: mingti/personal-website
+repository: minhtrimai/personal-website
 projects:
   # pushed or stars
   sort_by: stars
