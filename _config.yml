@@ -26,7 +26,7 @@ skills_title: Skills
 # Timeline Section
 show_timeline_card: true
 timeline_title: My Journey
-cv_download_link: https://github.com/MinhTriMai/test/blob/master/Mai%20Minh%20Tr%E1%BB%8B.pdf
+cv_download_link: https://github.com/MinhTriMai/test/raw/master/Mai%20Minh%20Tr%E1%BB%8B.pdf
 
 # Projects Section
 show_projects_card: true
