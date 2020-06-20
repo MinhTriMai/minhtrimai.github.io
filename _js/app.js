@@ -104,6 +104,7 @@ TxtRotate.prototype.tick = function() {
   }
 
   setTimeout(function() {
+    console.log(this.loopNum);
     that.tick();
   }, delta);
 };
