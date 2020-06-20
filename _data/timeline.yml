@@ -32,7 +32,11 @@
   title-url: http://www.beunik.com.vn/
   date: Aug 2019 - Oct 2019
   subtitle: Account Manager Intern
-  timeline-side: left
+  tags:
+    - tag: Wireframe
+    - tag: Acquire customer requirements 
+    - tag: Software design specifications
+  timeline-side: right
 
 - title: Economic Technology Group
   title-url: https://www.facebook.com/ETGroup.UEH/
@@ -41,6 +45,16 @@
   tags:
     - tag: Founder
     - tag: Organizer 
+    - tag: Chairman
+  timeline-side: left
+
+- title: Faculty of Business and IT - UEH
+  title-url: https://www.facebook.com/dhBIT/
+  date: Nov 2017 - Nov 2018
+  subtitle: Chairman of  The Associated Organ of  Vietnamese Student's Association
+  tags:
+    - tag: Volunteer
+    - tag: Organizer
     - tag: Chairman
   timeline-side: right
 
