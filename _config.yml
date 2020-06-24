@@ -52,7 +52,7 @@ projects:
 
 # Google-analytics
 google-analytics:
-  id: "UA-158757509-1"
+  id: "UA-170611522-1"
 
 plugins:
   - "jekyll-github-metadata"
